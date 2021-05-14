@@ -1,16 +1,34 @@
 {
   "finances": [
     {
-      "id": 1,
-      "name": "Bank Acc",
-      "description": "asset",
-      "value": 0
-    },
-    {
       "id": 2,
       "name": "Mortgage",
       "description": "expense",
       "value": 0
+    },
+    {
+      "name": "TEst",
+      "description": "asset",
+      "value": 77777,
+      "id": 9
+    },
+    {
+      "name": "Expense Name",
+      "description": "expense",
+      "value": 50000,
+      "id": 11
+    },
+    {
+      "name": "bank",
+      "description": "asset",
+      "value": 1050500,
+      "id": 12
+    },
+    {
+      "name": "Test",
+      "description": "Expense",
+      "value": 9000,
+      "id": 13
     }
   ]
 }
