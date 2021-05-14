@@ -3,14 +3,16 @@
     {
       "id": 1,
       "name": "Bank Acc",
-      "description": "asset",
-      "value": 0
+      "description": "Asset",
+      "value": 0,
+      "transactions": []
     },
     {
       "id": 2,
       "name": "Mortgage",
-      "description": "expense",
-      "value": 0
+      "description": "Expense",
+      "value": 0,
+      "transactions": []
     }
   ]
 }
